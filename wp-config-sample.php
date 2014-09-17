@@ -1,5 +1,6 @@
 <?php
 /**
+ * Test de commi jbkjsghfkhjhmdflkjtmklùyilm`ûmolìjm
  * La configuration de base de votre installation WordPress.
  *
  * Ce fichier contient les réglages de configuration suivants : réglages MySQL,
